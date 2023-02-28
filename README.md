@@ -48,8 +48,8 @@
 
 ###### 简单：
 
-- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) :smile:
-- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  :smile:
+- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) :smile:
 - [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 - [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
 - [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
@@ -101,15 +101,15 @@
 
 ###### 简单
 
-- [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+- [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) :smile:
 - [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
-- [589. N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)
+- [589. N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) :
 - [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 - [590. N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
 
 ###### 中等
 
-- [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+- [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) :smile:
 - [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 
@@ -132,7 +132,7 @@
 
 ###### 简单
 
-- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) :smile:
 - [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 - [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 - [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
