@@ -48,7 +48,7 @@
 
 ###### 简单：
 
-- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) :smile:
 - [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 - [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 - [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
