@@ -469,7 +469,7 @@
 - [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
 - [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
 - [494. 目标和](https://leetcode-cn.com/problems/target-sum/)
-- [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
+- [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) :smile:
 - [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
 - [1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) 
 - [207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
