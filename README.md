@@ -217,13 +217,13 @@
 
 ###### 简单
 
-- [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+- [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/):smile:
 - [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 - [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
 - [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 - [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/)
-- [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
+- [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/) :smile:
 - [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)
 
 ###### 中等
@@ -337,7 +337,7 @@
 
 ###### 简单
 
-- [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+- [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/):smile:
 - [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
 - [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
 - [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
