@@ -338,12 +338,12 @@
 ###### 简单
 
 - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/):smile:
-- [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
+- [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) :smile:
 - [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
 - [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
 - [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)
 - [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
-- [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)
+- [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) :smile:
 - [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
 - [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
 
@@ -354,7 +354,7 @@
 - [1318. 或运算的最小翻转次数](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 - [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
 - [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
-- [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)
+- [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) :simle:
 - [137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)
 - [421. 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 
