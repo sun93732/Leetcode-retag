@@ -577,11 +577,11 @@
 
 ###### 中等
 
-- [46. 全排列](https://leetcode-cn.com/problems/permutations/)
+- [46. 全排列](https://leetcode-cn.com/problems/permutations/) :simle:
 - [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 - [93. 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
-- [78. 子集](https://leetcode-cn.com/problems/subsets/)
-- [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+- [78. 子集](https://leetcode-cn.com/problems/subsets/) :simle:
+- [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) :simle:
 - [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
 - [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
