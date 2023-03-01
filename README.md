@@ -275,13 +275,13 @@
 
 ###### 简单
 
-- [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) :simle:
-- [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) :simle:
+- [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) :smile:
+- [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) :smile:
 
 ###### 中等
 
 - [215. 数组中的第 K 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
-- [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+- [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) :smile:
 - [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)
 - [378. 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
@@ -354,7 +354,7 @@
 - [1318. 或运算的最小翻转次数](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 - [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
 - [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
-- [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) :simle:
+- [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) :smile:
 - [137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)
 - [421. 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 
@@ -577,11 +577,11 @@
 
 ###### 中等
 
-- [46. 全排列](https://leetcode-cn.com/problems/permutations/) :simle:
+- [46. 全排列](https://leetcode-cn.com/problems/permutations/) :smile:
 - [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 - [93. 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
-- [78. 子集](https://leetcode-cn.com/problems/subsets/) :simle:
-- [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) :simle:
+- [78. 子集](https://leetcode-cn.com/problems/subsets/) :smile:
+- [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) :smile:
 - [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
 - [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
