@@ -543,9 +543,9 @@
 
 ###### 简单
 
-- [1603. 设计停车系统](https://leetcode-cn.com/problems/design-parking-system/)
-- [705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)
-- [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)
+- [1603. 设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) :smile:
+- [705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset/) :smile:
+- [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/) :smile:
 - [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 
 ###### 中等
