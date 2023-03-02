@@ -448,7 +448,7 @@
 - [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
 - [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
 - [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
-- [494. 目标和](https://leetcode-cn.com/problems/target-sum/)
+- [494. 目标和](https://leetcode-cn.com/problems/target-sum/) :smile:
 
 ###### 困难
 
@@ -584,7 +584,7 @@
 - [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) :smile:
 - [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
 - [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)
-- [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
+- [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) :smile:
 - [77. 组合](https://leetcode-cn.com/problems/combinations/)
 - [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
 - [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
