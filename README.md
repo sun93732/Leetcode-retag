@@ -488,7 +488,7 @@
 ###### 中等
 
 - [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
-- [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
+- [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) :smile:
 - [1319. 连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/)
 - [934. 最短的桥](https://leetcode-cn.com/problems/shortest-bridge/)
 - [785. 判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)
@@ -528,7 +528,7 @@
 - [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 - [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
 - [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
-- [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
+- [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) :-1:
 - [1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/)
 - [399. 除法求值](https://leetcode-cn.com/problems/evaluate-division/)
 - [1319. 连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/)
