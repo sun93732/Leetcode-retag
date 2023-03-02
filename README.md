@@ -550,7 +550,7 @@
 
 ###### 中等
 
-- [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+- [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/) :smile:
 - [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 - [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
 - [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
