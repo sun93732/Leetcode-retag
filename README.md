@@ -553,8 +553,8 @@
 - [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/) :smile:
 - [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 - [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
-- [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
-- [622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)
+- [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) :smile:
+- [622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/) :smile:
 - [380. O(1) 时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
 
 ###### 困难
