@@ -68,7 +68,7 @@
 - [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 - [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 - [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
-- [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+- [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) 🖖
 - [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
 - [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
 - [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
