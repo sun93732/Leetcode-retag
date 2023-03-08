@@ -83,7 +83,7 @@
 ###### 简单：
 
 - [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) 😙
-- [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+- [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) 😄
 
 ###### 中级
 
