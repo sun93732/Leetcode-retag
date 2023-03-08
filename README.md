@@ -49,7 +49,7 @@
 ###### 简单：
 
 - [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  :smile:
-- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) :smile:
+- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  😙
 - [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) 😄
 - [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
 - [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
@@ -69,7 +69,7 @@
 - [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 - [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 - [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) 🖖
-- [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
+- [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) :smile:
 - [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
 - [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
 - [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)
