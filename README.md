@@ -513,8 +513,8 @@
 
 ###### 中等
 
-- [207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
-- [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/)
+- [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) 😄
+- [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/) 😄
 
 ###### 困难
 
