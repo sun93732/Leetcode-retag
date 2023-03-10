@@ -525,7 +525,7 @@
 
 ###### 中等
 
-- [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
+- [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) 😄
 - [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
 - [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
 - [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) :-1:
