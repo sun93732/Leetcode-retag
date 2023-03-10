@@ -362,7 +362,7 @@
 
 ###### 简单
 
-- [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+- [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) 😄
 - [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
 - [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)
 - [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
