@@ -234,7 +234,7 @@
 - [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
 - [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 - [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)
-- [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
+- [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) 过几天写一下试试
 - [856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/)
 - [907. 子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)
 - [385. 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/)
