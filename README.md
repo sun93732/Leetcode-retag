@@ -228,7 +228,7 @@
 
 ###### 中等
 
-- [1190. 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+- [1190. 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) 😄
 - [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/) :smile: 解决了一半
 - [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/)
 - [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
