@@ -133,7 +133,7 @@
 ###### 简单
 
 - [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) :smile:
-- [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+- [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/):smile:
 - [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 - [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 - [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
@@ -371,7 +371,7 @@
 - [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
 - [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 - [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
-- [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
+- [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) 😄
 - [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
 
 ###### 中等
