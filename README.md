@@ -140,7 +140,7 @@
 - [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
 - [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
 - [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
-- [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
+- [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) 😙
 - [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
 
 ###### 中等
