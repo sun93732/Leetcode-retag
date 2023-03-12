@@ -582,7 +582,7 @@
 - [93. 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
 - [78. 子集](https://leetcode-cn.com/problems/subsets/) :smile:
 - [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) :smile:
-- [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
+- [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) 😄
 - [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) :smile:
 - [77. 组合](https://leetcode-cn.com/problems/combinations/)
