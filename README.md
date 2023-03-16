@@ -51,8 +51,8 @@
 - [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  :smile:
 - [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  😙
 - [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) 😄
-- [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
-- [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+- [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) 😄
+- [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) 😄
 - [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
 - [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) 😙
 
