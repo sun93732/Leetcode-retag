@@ -63,7 +63,8 @@
 - [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) 😙
 - [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) 😄
 - [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
-- [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)
+- [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) 😄
+- [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
 - [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) :smile:
 - [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) 😄
 - [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
