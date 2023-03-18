@@ -94,7 +94,7 @@
 
 ###### 困难
 
-- [23. 合并 K 个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+- [23. 合并 K 个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) 😄
 
 ## 𐀴 树
 
