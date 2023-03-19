@@ -322,7 +322,7 @@
 - [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
 - [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 - [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
-- [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+- [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) 😙
 - [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
 - [378. 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
