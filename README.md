@@ -318,7 +318,7 @@
 - [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)
 - [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 - [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
-- [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+- [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) 😄
 - [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
 - [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 - [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
