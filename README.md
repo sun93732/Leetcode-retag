@@ -49,18 +49,18 @@
 ###### 简单：
 
 - [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  :smile:
-- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  😙
+- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  :smile:
 - [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) 😄
 - [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) 😄
 - [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) 😄
 - [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)😄
-- [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) 😙
+- [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) :smile:
 
 ###### 中等
 
 - [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) 😄
 - [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/) :smile:
-- [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) 😙
+- [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) :smile:
 - [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) 😄
 - [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
 - [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) 😄
@@ -83,7 +83,7 @@
 
 ###### 简单：
 
-- [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) 😙
+- [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) :smile:
 - [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) 😄
 
 ###### 中级
@@ -140,8 +140,8 @@
 - [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) 😄
 - [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)😄
 - [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
-- [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) 😙
-- [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) 😙
+- [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) :smile:
+- [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) :smile:
 - [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)😄
 
 ###### 中等
@@ -297,12 +297,12 @@
 
 ###### 简单
 
-- [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)😙
-- [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) 😙
-- [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) 😙
-- [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  😙 这个似乎不是用二分法
-- [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) 😙
-- [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) 😙
+- [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/):smile:
+- [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) :smile:
+- [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) :smile:
+- [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  :smile: 这个似乎不是用二分法
+- [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) :smile:
+- [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) :smile:
 
 ###### 中等
 
@@ -318,7 +318,7 @@
 - [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
 - [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 - [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
-- [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) 😙
+- [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) :smile:
 - [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
 - [378. 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
@@ -346,7 +346,7 @@
 
 ###### 中等
 
-- [78. 子集](https://leetcode-cn.com/problems/subsets/) 😙
+- [78. 子集](https://leetcode-cn.com/problems/subsets/) :smile:
 - [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)
 - [1318. 或运算的最小翻转次数](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 - [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
