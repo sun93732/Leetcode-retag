@@ -139,7 +139,7 @@
 - [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/):smile:
 - [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) :smile:
 - [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/):smile:
-- [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+- [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) :smile:
 - [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) :smile:
 - [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) :smile:
 - [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/):smile:
