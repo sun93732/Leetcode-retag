@@ -134,15 +134,15 @@
 ###### 简单
 
 - [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) :smile:
-- [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/):smile:
-- [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) 😄
-- [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
-- [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) 😄
-- [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)😄
+- [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) :smile:
+- [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) :smile:
+- [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/):smile:
+- [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) :smile:
+- [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/):smile:
 - [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
 - [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) :smile:
 - [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) :smile:
-- [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)😄
+- [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/):smile:
 
 ###### 中等
 
@@ -307,14 +307,14 @@
 ###### 中等
 
 - [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
-- [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) 😄
-- [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) 😄
+- [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) :smile:
+- [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) :smile:
 - [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
 - [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 - [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)
 - [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 - [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
-- [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) 😄
+- [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) :smile:
 - [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
 - [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 - [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
@@ -352,14 +352,14 @@
 - [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
 - [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
 - [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) :smile:
-- [137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/) 😄
+- [137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/) :smile:
 - [421. 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 
 ## 𐀴 双指针与滑动窗口
 
 ###### 简单
 
-- [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) 😄
+- [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) :smile:
 - [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
 - [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) :smile:
 - [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
@@ -368,7 +368,7 @@
 - [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
 - [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 - [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
-- [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) 😄
+- [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) :smile:
 - [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
 
 ###### 中等
