@@ -170,7 +170,7 @@
 
 ###### 中等
 
-- [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+- [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) :smile: 多看几遍
 - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 - [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 - [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
