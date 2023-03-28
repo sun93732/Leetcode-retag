@@ -219,7 +219,7 @@
 - [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 - [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
 - [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
-- [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/)
+- [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/) :smile: 
 - [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/) :smile:
 - [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)
 
