@@ -221,7 +221,7 @@
 - [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) :smile:
 - [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/) :smile: 
 - [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/) :smile:
-- [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)
+- [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) :smile:
 
 ###### 中等
 
