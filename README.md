@@ -2,7 +2,17 @@
 重新分类 Leetcode 高频题 2021 版
 
 - 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
+- 增加难度分类，适合从简单开始学习stack = stack[:len(stack)-k]
+    ans := strings.TrimLeft(string(stack), "0")
+    if ans == "" {
+        ans = "0"
+    }
+    return ans
+
+作者：LeetCode-Solution
+链接：https://leetcode.cn/problems/remove-k-digits/solution/yi-diao-kwei-shu-zi-by-leetcode-solution/
+来源：力扣（LeetCode）
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 - 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别
 
 # 目录
@@ -254,7 +264,7 @@
 ###### 中等
 
 - [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) :smile: with Golang
-- [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/)
+- [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/) :smile: with Golang
 - [316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
 - [1124. 表现良好的最长时间段](https://leetcode-cn.com/problems/longest-well-performing-interval/)
 
