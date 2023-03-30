@@ -265,7 +265,7 @@
 
 - [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) :smile: with Golang
 - [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/) :smile: with Golang
-- [316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
+- [316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) :smile: with Golang 有难度
 - [1124. 表现良好的最长时间段](https://leetcode-cn.com/problems/longest-well-performing-interval/)
 
 ###### 困难
