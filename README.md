@@ -239,7 +239,7 @@
 - [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/) :smile: 解决了一半
 - [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/)
 - [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
-- [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
+- [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) :smile:
 - [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)
 - [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) 过几天写一下试试
 - [856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/) 😧 看不明白
