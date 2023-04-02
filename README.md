@@ -375,7 +375,7 @@
 - [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) :smile:
 - [204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
 - [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/):smile:
-- [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
+- [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/):smile:代码要多读几遍
 - [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 - [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
 - [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) :smile:
