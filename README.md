@@ -374,7 +374,7 @@
 - [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) :smile:
 - [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) :smile:
 - [204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
-- [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+- [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/):smile:
 - [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
 - [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 - [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
