@@ -379,7 +379,7 @@
 - [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 - [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) :smile:
 - [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) :smile:
-- [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
+- [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) :smile:
 
 ###### 中等
 
