@@ -377,7 +377,7 @@
 - [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/):smile:
 - [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/):smile:代码要多读几遍
 - [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
-- [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
+- [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) :smile:
 - [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) :smile:
 - [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
 
