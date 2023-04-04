@@ -473,7 +473,7 @@
 ###### 中等
 
 - [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
-- [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
+- [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/) :smile: 哈希 + 并查集
 - [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
 - [494. 目标和](https://leetcode-cn.com/problems/target-sum/)
 - [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) :smile:
