@@ -448,7 +448,7 @@
 ###### 中等
 
 - [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
-- [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+- [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) :smile:
 - [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
 - [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
 - [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
